@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [读《战神粟裕》](http://blog.topcoders.cn/articles/2019/10/10/1570688579288.html)
 * [面试有感](http://blog.topcoders.cn/articles/2019/10/09/1570588051310.html)
 * [实践论  ](http://blog.topcoders.cn/articles/2019/09/26/1569480915187.html)
 * [徒手攀岩](http://blog.topcoders.cn/articles/2019/09/20/1568990149696.html)

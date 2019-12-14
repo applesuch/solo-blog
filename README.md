@@ -5,11 +5,13 @@
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="大叔的个人博客" target="_blank" href="https://github.com/applesuch/solo-blog"><img src="https://img.shields.io/github/last-commit/applesuch/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/applesuch/solo-blog"><img src="https://img.shields.io/github/repo-size/applesuch/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/applesuch/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/applesuch/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [读《极简主义》](http://blog.topcoders.cn/articles/2019/11/04/1572833644428.html)
+* [我在 GitHub 上的开源项目](http://blog.topcoders.cn/my-github-repos)
 * [读《战神粟裕》](http://blog.topcoders.cn/articles/2019/10/10/1570688579288.html)
 * [面试有感](http://blog.topcoders.cn/articles/2019/10/09/1570588051310.html)
 * [实践论  ](http://blog.topcoders.cn/articles/2019/09/26/1569480915187.html)
@@ -23,4 +25,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
